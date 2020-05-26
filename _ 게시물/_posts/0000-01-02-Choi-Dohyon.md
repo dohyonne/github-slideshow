@@ -1,1 +1,5 @@
-_posts/0000-01-02-Choi-Dohyon.md
+#include<stdio.h>
+int main(void){
+printf("Hello world");
+return 0;
+}
